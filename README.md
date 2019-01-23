@@ -30,4 +30,4 @@
 
 # React 
 
-![React](./../React-cn.png)
+![React](./image/React-cn.png)
