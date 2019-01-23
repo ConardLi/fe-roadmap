@@ -1,4 +1,4 @@
-
+> 图不清楚请右键保存到本地查看
 
 ![React](./image/React-cn.png)
 
